@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_netflix_responsive_ui/models/content_model.dart';
+import 'package:netflix_ui_clone/models/content_model.dart';
 
 class Previews extends StatelessWidget {
   final String title;

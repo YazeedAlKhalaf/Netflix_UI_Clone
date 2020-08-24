@@ -1,6 +1,6 @@
 {
-    "name": "flutter_netflix_responsive_ui",
-    "short_name": "flutter_netflix_responsive_ui",
+    "name": "netflix_ui_clone",
+    "short_name": "netflix_ui_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

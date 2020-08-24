@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_netflix_responsive_ui/cubits/cubits.dart';
-import 'package:flutter_netflix_responsive_ui/data/data.dart';
-import 'package:flutter_netflix_responsive_ui/widgets/widgets.dart';
+import 'package:netflix_ui_clone/cubits/cubits.dart';
+import 'package:netflix_ui_clone/data/data.dart';
+import 'package:netflix_ui_clone/widgets/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomeScreen extends StatefulWidget {

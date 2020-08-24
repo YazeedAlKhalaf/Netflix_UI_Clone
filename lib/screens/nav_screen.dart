@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_netflix_responsive_ui/cubits/cubits.dart';
-import 'package:flutter_netflix_responsive_ui/screens/home_screen.dart';
-import 'package:flutter_netflix_responsive_ui/widgets/widgets.dart';
+import 'package:netflix_ui_clone/cubits/cubits.dart';
+import 'package:netflix_ui_clone/screens/home_screen.dart';
+import 'package:netflix_ui_clone/widgets/widgets.dart';
 
 class NavScreen extends StatefulWidget {
   @override

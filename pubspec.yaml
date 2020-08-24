@@ -1,5 +1,5 @@
-name: flutter_netflix_responsive_ui
-description: A new Flutter project.
+name: netflix_ui_clone
+description: Netflix UI clone made using Flutter
 version: 1.0.0+1
 
 environment:

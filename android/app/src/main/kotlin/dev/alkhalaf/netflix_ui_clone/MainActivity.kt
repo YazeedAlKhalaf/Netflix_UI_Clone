@@ -1,4 +1,4 @@
-package dev.alkhalaf.flutter_netflix_responsive_ui
+package dev.alkhalaf.netflix_ui_clone
 
 import io.flutter.embedding.android.FlutterActivity
 

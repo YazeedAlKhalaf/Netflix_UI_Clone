@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_netflix_responsive_ui/assets.dart';
-import 'package:flutter_netflix_responsive_ui/models/models.dart';
+import 'package:netflix_ui_clone/assets.dart';
+import 'package:netflix_ui_clone/models/models.dart';
 
 final Content sintelContent = Content(
   name: 'Sintel',
